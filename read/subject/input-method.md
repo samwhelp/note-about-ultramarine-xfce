@@ -25,8 +25,8 @@ has_children: true
 | 輸入法框架 | 切換指令 | 設定檔路徑 |
 | --- | --- | --- |
 | [fcitx5](#fcitx5) | `imsettings-switch fcitx5` | ~/.config/imsettings/xinputrc |
-| [ibus](#ibus) | `imsettings-switch ibus` | ~/.config/imsettings/xinputrc |
-| [gcin](#gcin) | `imsettings-switch gcin` | ~/.config/imsettings/xinputrc |
+| ibus | `imsettings-switch ibus` | ~/.config/imsettings/xinputrc |
+| gcin | `imsettings-switch gcin` | ~/.config/imsettings/xinputrc |
 
 > 執行下面指令，顯示有那些「輸入法架構」可供選擇。
 
