@@ -28,7 +28,7 @@ has_children: true
 | [ibus](#ibus) | `imsettings-switch ibus` | ~/.config/imsettings/xinputrc |
 | [gcin](#gcin) | `imsettings-switch gcin` | ~/.config/imsettings/xinputrc |
 
-執行
+> 執行下面指令，顯示有那些「輸入法架構」可供選擇。
 
 ``` sh
 imsettings-list
@@ -43,13 +43,13 @@ imsettings-list
   4: gcin[gcin.conf]
 ```
 
-執行
+> 執行下面指令，將「輸入法架構」切換到「fcitx5」。
 
 ``` sh
 imsettings-switch fcitx5
 ```
 
-執行
+> 執行下面指令，觀看「`~/.config/imsettings/xinputrc`」這個檔案的類型。
 
 ``` sh
 file ~/.config/imsettings/xinputrc
@@ -60,6 +60,9 @@ file ~/.config/imsettings/xinputrc
 ```
 /home/user/.config/imsettings/xinputrc: symbolic link to /etc/X11/xinit/xinput.d/fcitx5.conf
 ```
+
+> 表示「`~/.config/imsettings/xinputrc`」這個檔案，會軟連結到「/etc/X11/xinit/xinput.d/fcitx5.conf」這個檔案。
+
 
 
 

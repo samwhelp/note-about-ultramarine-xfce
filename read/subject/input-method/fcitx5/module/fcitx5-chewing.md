@@ -85,7 +85,7 @@ sudo dnf install \
 
 ## 切換輸入法架構
 
-執行下面指令，顯示有那些「輸入法架構」可供選擇
+> 執行下面指令，顯示有那些「輸入法架構」可供選擇。
 
 ``` sh
 imsettings-list
@@ -99,7 +99,7 @@ imsettings-list
   3: fcitx5[fcitx5.conf]
 ```
 
-執行下面指令，將「輸入法架構」切換到「fcitx5」
+> 執行下面指令，將「輸入法架構」切換到「fcitx5」。
 
 ``` sh
 imsettings-switch fcitx5
