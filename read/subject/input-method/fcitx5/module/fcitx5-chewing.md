@@ -105,7 +105,7 @@ imsettings-list
 imsettings-switch fcitx5
 ```
 
-> 重新登出，然後登入，就會生效
+> 重新登出，然後登入，就會生效。
 
 
 
