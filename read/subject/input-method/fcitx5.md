@@ -49,6 +49,13 @@ parent: 輸入法
 
 
 
+## Fcitx Wiki
+
+* [Setup Fcitx 5](https://fcitx-im.org/wiki/Setup_Fcitx_5)
+
+
+
+
 ## Arch Wiki
 
 * [Fcitx5](https://wiki.archlinux.org/title/Fcitx5)
@@ -61,10 +68,8 @@ parent: 輸入法
 執行
 
 ``` sh
-dnf search fcitx5 | sort -u
+dnf search fcitx5
 ```
-
-顯示
 
 顯示
 
@@ -142,6 +147,8 @@ fcitx5-zhuyin.x86_64 : Libzhuyin Wrapper for Fcitx
 kcm-fcitx5.i686 : Config tools to be used on KDE based environment.
 kcm-fcitx5.x86_64 : Config tools to be used on KDE based environment.
 ```
+
+
 
 
 ## Package
@@ -233,5 +240,3 @@ dnf search fcitx5 | grep ' : ' | sort -u | awk -F ' : ' '{print $1}' | awk -F '.
 ``` sh
 dnf search fcitx5 | grep ' : ' | sort -u | awk -F ' : ' '{print $1}' | awk -F '.' '{print "* [url=https://packages.fedoraproject.org/pkgs/"$1"/"$1"]"$1"[/url]"}'
 ```
-
-
