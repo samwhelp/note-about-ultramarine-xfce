@@ -14,6 +14,7 @@ has_children: true
 * [Docs](#docs)
 * [設定檔路徑](#設定檔路徑)
 * [相關指令](#相關指令)
+* [Package](#package)
 
 
 
@@ -173,3 +174,9 @@ LANG=zh_TW.UTF-8
 sudo localectl set-locale LANG="en_US.UTF-8"
 ```
 
+
+
+
+## Package
+
+* [glibc-all-langpacks](https://packages.fedoraproject.org/pkgs/glibc/glibc-all-langpacks/)
