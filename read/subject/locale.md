@@ -165,3 +165,11 @@ cat /etc/locale.conf
 ```
 LANG=zh_TW.UTF-8
 ```
+
+
+執行
+
+``` sh
+sudo localectl set-locale LANG="en_US.UTF-8"
+```
+
