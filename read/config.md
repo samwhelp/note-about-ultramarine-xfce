@@ -7,6 +7,17 @@ has_children: true
 # 設定
 
 
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [Ultramarine Xfce Config](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main/xfce-config/Main) |
+
+
+
+
 ## 按鍵綁定
 
 | 按鍵綁定 |
