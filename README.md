@@ -9,6 +9,9 @@
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-ultramarine-xfce/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
