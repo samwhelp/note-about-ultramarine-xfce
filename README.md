@@ -9,9 +9,6 @@
 | [Ultramarine 探索筆記](https://samwhelp.github.io/note-about-ultramarine/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-ultramarine-xfce/read/cheatsheet/keybind.html)
-
-
 
 
 ## 主題
@@ -32,14 +29,17 @@
 | 微調腳本 |
 | -------- |
 | [Ultramarine Xfce Config](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main/xfce-config/Main) |
+| [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
 
 ## 按鍵綁定
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-ultramarine-xfce/read/cheatsheet/keybind.html)
+
 | 按鍵綁定 |
-| --- |
+| ------- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-xfce/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-ultramarine-xfce/read/config/mousebind.html) |
 
