@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Ultramarine Xfce Config](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main/xfce-config/Main) |
+| [Ultramarine Xfce Config](https://github.com/samwhelp/ultramarine-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/ultramarine-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
